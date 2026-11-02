@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e3abf1e655cd44740950a18c0d7cc77c, type: 3}
+  m_Name: Assignment1Tutorial
+  m_EditorClassIdentifier: Assembly-CSharp::TutorialData
+  tutorialTitle: 'Uppgift 1: Skapa spelaren'
+  steps:
+  - {fileID: 11400000, guid: f6a4b971571289242a5e639f660ea273, type: 2}
+  - {fileID: 11400000, guid: 98b59b1b2c447ef4ab4adff7be685c7c, type: 2}
+  - {fileID: 11400000, guid: bf29a8fbd408634408facf59bb6afdc5, type: 2}
+  - {fileID: 11400000, guid: 6a1516839ca41b243ba30c3819ca5adb, type: 2}
+  - {fileID: 11400000, guid: 6f11ed92dd3fd1e4db22550222855190, type: 2}

@@ -1,0 +1,15 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2276289802bba014daf83bb345be2242, type: 3}
+  m_Name: ShipTwo
+  m_EditorClassIdentifier: Assembly-CSharp::ShipTemplates
+  shipGraphics: {fileID: 4884443935584289356, guid: 7514075547807644c83ea73201cf9cb7, type: 3}
