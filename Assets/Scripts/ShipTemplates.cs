@@ -4,5 +4,11 @@ using UnityEngine;
 public class ShipTemplates : ScriptableObject
 {
     public Sprite shipGraphics;
+    public float speed;
     public bool isPlayer;
+    public WeaponSystem weaponSystem;
+
+    public Vector3[] laserPylonOffset;
+
+
 }

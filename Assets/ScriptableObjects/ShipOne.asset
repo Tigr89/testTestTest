@@ -13,3 +13,8 @@ MonoBehaviour:
   m_Name: ShipOne
   m_EditorClassIdentifier: Assembly-CSharp::ShipTemplates
   shipGraphics: {fileID: -590947418329346848, guid: 22573c8cc90722347a4b68621a461c4e, type: 3}
+  isPlayer: 0
+  weaponSystem: {fileID: 11400000, guid: 75e1897a38fed5d4cbf5df90dc64619b, type: 2}
+  laserPylonOffset:
+  - {x: 0.3, y: 0.3, z: 0}
+  - {x: -0.3, y: 0.3, z: 0}
